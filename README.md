@@ -1,6 +1,6 @@
-### Animasi dan Pergerakan Kamera di Three.Js
+## Animasi dan Pergerakan Kamera di Three.Js
 
-## Anggota Kelompok Sleeping Beauty (Kelompok 6)
+### Anggota Kelompok Sleeping Beauty (Kelompok 6)
 1. Monica Narda Davita - 5025201009
 2. Angela Oryza Prabowo - 5025201022
 3. Ichlasul Hasanat - 5025201091
